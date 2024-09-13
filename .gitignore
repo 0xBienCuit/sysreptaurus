@@ -1,0 +1,14 @@
+.venv
+# .gitignore
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+# requirements.txt
+requests
+pandas
+flask
+
